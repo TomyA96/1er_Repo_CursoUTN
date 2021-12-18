@@ -1,0 +1,23 @@
+#titulo {
+    background-color: royalblue;
+    color: black;
+    margin: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#img {
+    height: 600px;
+    width: 450px;
+}
+
+.contenido {
+    background-color: grey;
+    color:white;
+    margin: 30px;
+    text-align:left;
+    padding: 30px;
+    border: 2px solid red;
+    border-bottom: 4px dashed red;
+   margin-top: 0px;
+}
